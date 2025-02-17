@@ -81,3 +81,45 @@
   font-style: normal;
   font-weight: 200;
 }
+
+@font-face {
+  font-family: "RobotoCondensed";
+  src: url("/fonts/RobotoCondensed-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "RobotoCondensed";
+  src: url("/fonts/RobotoCondensed-MediumItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "RobotoCondensed";
+  src: url("/fonts/RobotoCondensed-SemiBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "RobotoCondensed";
+  src: url("/fonts/RobotoCondensed-SemiBoldItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "RobotoCondensed";
+  src: url("/fonts/RobotoCondensed-Thin.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "RobotoCondensed";
+  src: url("/fonts/RobotoCondensed-ThinItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 100;
+}
