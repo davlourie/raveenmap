@@ -1,0 +1,14 @@
+body {
+  background-color: greenyellow;
+}
+
+.CORT {
+  width: 30vw;
+  height: 30vw;
+  background-color: red;
+}
+
+.CORT p {
+  justify-content: center;
+  align-items: center;
+}
